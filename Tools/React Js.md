@@ -1,0 +1,2 @@
+- Virtual DOM is more like a Practice OMR Sheet. 
+	- Every time Printing/Writing  Directly into DOM is expensive. React Js allows us to do Practice/Modification on Virtual DOM and then prints/writes the end result into Main DOM.

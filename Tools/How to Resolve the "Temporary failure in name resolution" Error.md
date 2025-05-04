@@ -1,0 +1,1 @@
+The "Temporary failure in name resolution" error occurs when the system cannot translate a [domain name](https://phoenixnap.com/glossary/what-is-a-domain) into an IP address. While the error sometimes appears due to a lost internet connection, there are multiple reasons why it may show up.

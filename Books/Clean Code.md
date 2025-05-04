@@ -1,0 +1,1 @@
+The measure of design quality is simply the measure of the effort required to meet the needs of the customer.

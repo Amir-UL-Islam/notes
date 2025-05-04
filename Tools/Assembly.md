@@ -1,0 +1,3 @@
+- clang main.c -S[Compile in ASM]
+- clang main.s -o main.o[Creates Object files]
+- clang main.c -S -emit-llvm[into LLVM]
