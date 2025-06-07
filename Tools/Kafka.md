@@ -32,6 +32,8 @@ Optional Prams
 kafka-console-consumer  --bootstrap-server localhost:9092 --topic phishing-sites --from-beginning --max-messages 3
 ```
 
+Creating Kafka Topic
+![[Screenshot 2025-06-07 at 9.26.50 AM.png]]
 ```shell
 
 kafka-topics --bootstrap-server localhost:9092 --topic testing_with_rep2 --create --replication-factor 2 --partition 2
